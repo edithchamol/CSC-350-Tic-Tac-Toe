@@ -10,3 +10,5 @@ This is a basic Tic-Tac-Toe game built with PHP and HTML, designed to match a sp
 1. Clone the repository:
    ```bash
    git clone https://github.com/edithchamol/Tic-Tac-Toe.git
+
+   
